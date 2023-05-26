@@ -1,2 +1,2 @@
 # Xpense
-reponsive web app using flutter for web 
+responsive web app using flutter for web 
